@@ -11,24 +11,24 @@ Deploy two EC2 instances behind an ALB. The ALB must handle all incoming traffic
 4) Target Groups and Health Checks
 ##
 Virutal Private Cloud
-https://raw.githubusercontent.com/SaeedAAli/AmazonWebServices/refs/heads/main/Assignment/VPCAWS2.png
+< img src= "https://raw.githubusercontent.com/SaeedAAli/AmazonWebServices/refs/heads/main/Assignment/VPCAWS2.png" />
 
 ##
 EC2 Instances & Security Groups
-https://raw.githubusercontent.com/SaeedAAli/AmazonWebServices/refs/heads/main/Assignment/Aec2.png
+<img src="https://raw.githubusercontent.com/SaeedAAli/AmazonWebServices/refs/heads/main/Assignment/Aec2.png" alt="EC2 Assignment" />
 
-https://raw.githubusercontent.com/SaeedAAli/AmazonWebServices/refs/heads/main/Assignment/SGS.png
 
+<img src="https://raw.githubusercontent.com/SaeedAAli/AmazonWebServices/refs/heads/main/Assignment/SGS.png" alt="Security Groups" />
 ##
 Target Groups & Application Load Balancer
-https://raw.githubusercontent.com/SaeedAAli/AmazonWebServices/refs/heads/main/Assignment/targetgroups.png
+<img src="https://raw.githubusercontent.com/SaeedAAli/AmazonWebServices/refs/heads/main/Assignment/targetgroups.png" alt="Target Groups" />
 
-https://raw.githubusercontent.com/SaeedAAli/AmazonWebServices/refs/heads/main/Assignment/Screenshot%202026-03-10%20at%2019.41.11.png
+<img src="https://raw.githubusercontent.com/SaeedAAli/AmazonWebServices/refs/heads/main/Assignment/Screenshot%202026-03-10%20at%2019.41.11.png" alt="AWS Screenshot" />
 
 ##
 Verify Check on Two Instances
 
-https://raw.githubusercontent.com/SaeedAAli/AmazonWebServices/refs/heads/main/Assignment/firstinstance.png
+<img src="https://raw.githubusercontent.com/SaeedAAli/AmazonWebServices/refs/heads/main/Assignment/firstinstance.png" alt="First Instance" />
 
-https://raw.githubusercontent.com/SaeedAAli/AmazonWebServices/refs/heads/main/Assignment/finale.png
+<img src="https://raw.githubusercontent.com/SaeedAAli/AmazonWebServices/refs/heads/main/Assignment/finale.png" alt="AWS Architecture Diagram" />
 
